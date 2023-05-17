@@ -1,1 +1,1 @@
-# jenkins-example-scripts-python
+# python example for jenkins pipeline
